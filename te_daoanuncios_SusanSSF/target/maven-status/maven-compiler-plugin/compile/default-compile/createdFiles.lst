@@ -1,0 +1,9 @@
+com\emergentes\controlador\AvisoController.class
+com\emergentes\modelo\Aviso.class
+com\emergentes\dao\AvisoDAOusuario.class
+com\emergentes\dao\AvisoDAOimplusuario.class
+com\emergentes\utiles\ConexionBD.class
+com\emergentes\controlador\AvisoControllerUsuario.class
+com\emergentes\modelo\Avisousuario.class
+com\emergentes\dao\AvisoDAO.class
+com\emergentes\dao\AvisoDAOimpl.class
